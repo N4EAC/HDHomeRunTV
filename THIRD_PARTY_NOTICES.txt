@@ -1,0 +1,12 @@
+HDHomeRun TV Player uses mpv as a separate portable playback process.
+
+mpv project: https://mpv.io/
+Windows build origin: https://github.com/shinchiro/mpv-winbuild-cmake
+Pinned build: mpv-x86_64-20260610-git-304426c.7z
+License: GPL-2.0-or-later for the distributed build and its statically linked components.
+
+The player downloads mpv directly from the build publisher on first playback and verifies:
+SHA-256 facac536baa73c7b925771af5e39a3c9cb16b8d75b59a6e9800de89799dffca7
+
+Corresponding source and build information are available from the upstream mpv and
+mpv-winbuild-cmake projects.
