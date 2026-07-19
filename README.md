@@ -1,6 +1,6 @@
 # HDHomeRun TV Player 1.0.8
 
-Windows television-style player for SiliconDust HDHomeRun network tuners.
+Windows television-style player for SiliconDust HDHomeRun network tuners. No DRM.
 
 ## Playback engine
 
